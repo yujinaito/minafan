@@ -24,8 +24,8 @@ header{
 }
 
 .icon img{
-  border-radius: 50%; //指定した画像の角を丸くする。UJLOGO 
-  border-width: 4px;  //枠線を付けるUJLOGOの周りの線
+  border-radius: 50%; //指定した画像の角を丸くする。夕日LOGO 
+  border-width: 5px;  //枠線を付ける夕日LOGOの周りの線
   border-style: solid;
   border-color: rgb(100, 232, 255);
 }
