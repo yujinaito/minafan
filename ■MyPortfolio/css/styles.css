@@ -92,3 +92,8 @@ footer p {
   margin-bottom: 60px;
   color: gray;
 }
+
+.hederimg{
+  max-width:100%; 
+  height:auto;
+}
