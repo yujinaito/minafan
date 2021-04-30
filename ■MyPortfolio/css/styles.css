@@ -13,15 +13,6 @@ header{
   margin-right: auto;
 }
 
-.area {
-  position: relative;
-  width: 450px;
-  /*牧場ごと移動したい場合は位置を指定します*/
-  left: 30px;
-  /* 以下の設定は分かりやすいようにするためで必須ではありません。 */
-  align-items: center;
-}
-
 .container{
   /* background-color:pink; */
   width: 400px;
