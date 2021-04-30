@@ -23,10 +23,6 @@ header{
   align-items: center;
 }
 
-.icon{
-  /* background-color:skyblue; */
-}
-
 .icon img{
   border-radius: 50%; //指定した画像の角を丸くする。夕日LOGO 
   border-width: 5px;  //枠線を付ける夕日LOGOの周りの線
@@ -40,7 +36,7 @@ header{
 }
 
 .info h1{
-  font-weight: nomal;
+  font-weight: bold;
   font-size: 24px;
   margin: 0;
 }
